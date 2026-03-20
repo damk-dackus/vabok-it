@@ -1,0 +1,13 @@
+codrone unboxing challenge (4 uur): Uitpakken van de codrone EDU en ontdekken wat er allemaal in de doos zit. Daarnaast proberen ze drone aan het werk te krijgen.
+codrone programmeren met Blockly (4 uur): Creatieve kennismakingsopdracht met het werken met Blockly en de codrone EDU. Ze gaan voor het eerst werken blockly en moeten een uitdaging krijgen die op 4 uur haalbaar is.
+codrone programmeren met Python (4 uur): Creatieve kennismakingsopdracht met het werken met Python en de codrone EDU. ze gaan voor het eerst werken met Python en moeten een kleine uitdaging krijgen. Ze hebben nog nooit geprogrammeerd.
+codrone innovatie challenge (4 uur): Ze gaan in een team van 3 personen zelf een creatieve opdracht verzinnen om een probleem op te lossen met de drone.
+codrone race challenge (8 uur): Ze gaan in teams van twee leerlingen een race houden tegen elkaar. Ieder groepje mag een obstakel bedenken voor in het parcours. Alle obstakels vormen samen het parcours. Ook de docenten moeten obstakels verzinnen
+Website ontwerpen met figma YourApp (6 uur)
+Technisch ontwerp YourApp (4 uur)
+Website HTML YourApp (6 uur)
+Website CSS YourApp (6 uur)
+Website Javascript YourApp (6 uur)
+Mobiele App YourApp maken (8 uur)
+Samen documenteren (4 uur)
+Applicatie testen YourApp (4 uur)
