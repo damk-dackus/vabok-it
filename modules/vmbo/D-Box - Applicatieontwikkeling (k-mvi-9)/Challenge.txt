@@ -4,10 +4,11 @@ codrone programmeren met Python (4 uur): Creatieve kennismakingsopdracht met het
 codrone innovatie challenge (4 uur): Ze gaan in een team van 3 personen zelf een creatieve opdracht verzinnen om een probleem op te lossen met de drone.
 codrone race challenge (8 uur): Ze gaan in teams van twee leerlingen een race houden tegen elkaar. Ieder groepje mag een obstakel bedenken voor in het parcours. Alle obstakels vormen samen het parcours. Ook de docenten moeten obstakels verzinnen
 Website ontwerpen met figma YourApp (6 uur)
-Technisch ontwerp YourApp (4 uur)
-Website HTML YourApp (6 uur)
-Website CSS YourApp (6 uur)
-Website Javascript YourApp (6 uur)
-Mobiele App YourApp maken (8 uur)
-Samen documenteren (4 uur)
-Applicatie testen YourApp (4 uur)
+6	Website ontwerpen met Figma (YourApp)	Je maakt een ontwerp in Figma voor de website van YourApp (schermen, indeling, stijl).	6 uur
+7	Technisch ontwerp (YourApp)	Je maakt een technisch ontwerp voor YourApp (bijv. pagina’s, onderdelen en wat ze doen).	4 uur
+8	Website HTML (YourApp)	Je bouwt de structuur van de website met HTML volgens het ontwerp.	6 uur
+9	Website CSS (YourApp)	Je maakt de opmaak van de website met CSS (layout, kleuren, lettertypes, responsive).	6 uur
+10	Website JavaScript (YourApp)	Je voegt interactie toe met JavaScript (bijv. menu, formulieren, dynamische elementen).	6 uur
+11	Mobiele app YourApp maken	Je maakt een mobiele app-versie of prototype van YourApp en test de belangrijkste schermen.	8 uur
+12	Samen documenteren	Je maakt samen een duidelijk document met afspraken, stappen, keuzes en resultaten.	4 uur
+13	Applicatie testen (YourApp)	Je test YourApp, noteert bugs/verbeterpunten en levert een kort testverslag op.	4 uur
