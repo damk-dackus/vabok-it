@@ -1,0 +1,67 @@
+# Challenge Leerjaar 1 vs Leerjaar 2
+studenten gaan zelf één hindernissen maken van een drones parcours. 
+Van alle hindernissen wordt één percours gemaakt. 
+Daarna moeten ze proberen zoveel mogelijk punten te scoren met twee accu's.
+
+## Groepsamenstelling
+Studenten gaan in groepjes van 2 studenten samenwerken.
+
+## Onderdelen challenge
+- Ieder groepje denkt na over één hindernissen in het parcours.
+- Ze ontwerpen hun eigen hindernis in draw.io
+- Als een hindernis goed genomen wordt dan zijn er 100 punten te verdienen.
+- Daarna worden alle hindernissen van alle groepjes in een parcours gezet.
+- De studenten tekenen dit parcours in draw.io
+- Studenten krijgen de opracht om met twee accu's zo veel mogelijk punten te verdienen. Waarbij ze op de startpad moeten beginnen en op de eindpad moeten eindigen.
+- Er wordt een korte YouTube shorts gemaakt van vliegende drone.
+- In het Engels wordt omschreven hoe hun eigen hindernis werkt. (engels)
+- De studentengroep denkt na op welke manier drones kunnen worden ingezet in de maatschappij. Wat zijn de kansen en gevaren van drones.
+- De groep maakt een overzicht van het aantal bepaalde punten tijdens het hindernissenparcours. Dit presenteren ze aan het team.
+
+## Duur challenge
+- De duur van de challenge is 4 dagen van 5 uur.
+
+## Zelf hindernis onderwerpen
+Bij het maken van de hindernissen in het parcours maken ze gebruik van de sensors en besturing van de codrone.
+Motion
+Range
+Position
+Color
+Barometer
+Temperature
+Color
+Battery
+
+## Ideeen voor een hindernis
+Kern: Maak 2 “poortjes” (stoelen/tafels met lint). Drone mag pas door als hij op ~30–50 cm van de rand “ziet” dat er ruimte is (range boven drempel). Bonus: te dicht bij rand = stop/achteruit.
+Waarom hoog: makkelijk op te zetten, veel oefening met drempelwaarden en veilig stoppen.
+Kleur-checkpoint (Color)
+
+Kern: Leg gekleurde A4’s op de grond (bijv. rood = draai links, blauw = draai rechts, groen = landing). Drone moet boven het juiste vel “herkennen” en een actie doen.
+Waarom hoog: heel zichtbaar voor leerlingen, snelle feedback (“hij ziet de kleur wel/niet”).
+Stoplicht-lijn (Motion)
+
+Kern: Een leerling is “stoplicht”: bij beweging in de buurt moet de drone bevriezen (hover/stop), bij stilte mag hij verder. Je maakt zo een “wacht-zone”.
+Waarom hoog: leuke game-vorm, traint reageren op sensorinput en fouttolerantie.
+Hoogte-hek (Barometer / Position)
+
+Kern: Zet een “laag hek” (touw tussen 2 stoelen). Drone moet eronder (laag blijven) of erover (hoog blijven), afhankelijk van opdracht.
+Slalom met vaste punten (Position)
+
+Kern: Plaats 3–5 markeringen (tape-kruisen). Drone moet naar punt A, B, C… (of in blokjes: vooruit–rechts–vooruit) en bij elk punt kort hoveren.
+Nauwkeurige landing op “platform” (Position + Range)
+
+Kern: Land op een “landingspad” (karton/placemat) zonder ernaast te komen. Eventueel: als range te klein (te dicht bij rand/obstakel), dan afbreken en opnieuw proberen.
+Batterij-regel: pitstop (Battery)
+
+Kern: In het parcours zit een “pitstop”. Als batterij onder bijv. 30% komt: terug naar start/land op pitstop en einde run (of wissel drone).
+Temperatuur-portal (Temperature)
+
+Kern: Bij een “portal” (plek in het parcours) moet de drone temperatuur meten en een signaal geven (bijv. LED/geluid/stop) als het boven/onder een drempel is. Dit kun je sturen door een warme lamp of koude plek.
+Kleur-poort met “verkeerde” kleur penalty (Color)
+
+Kern: Twee routes: rood pad en blauw pad. Drone kiest route op kleur; verkeerde kleur = 2 seconden “straf-hover” en terugdraaien.
+Precision turn zone (Motion/Range)
+
+Kern: In een krappe zone moet de drone precies 90° draaien zonder “botsen”: als range te klein → kleinere draai of stapje achteruit, dan opnieuw.
+
