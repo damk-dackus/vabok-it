@@ -5,7 +5,7 @@
 **Context**  
 *[Schrijf 2 tot 4 zinnen. Welke situatie is het? Welk probleem los je op? Voor wie maak je het?]*
 
-**Jouw opdracht**  
+**Challenge**  
 *[Zet hier 3 tot 5 bullets. Wat doe je in deze periode? Bijvoorbeeld: behoeften op een rij, ontwerp maken, bouwen, testen, presenteren.]*
 
 - *[Bullet 1]*
