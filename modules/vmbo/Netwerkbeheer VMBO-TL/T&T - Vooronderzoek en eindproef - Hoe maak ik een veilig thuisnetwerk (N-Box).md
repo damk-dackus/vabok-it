@@ -6,8 +6,8 @@ Dit vak heeft **twee duidelijke stukken**. Die horen bij elkaar, maar ze zijn **
 
 | Onderdeel | Wat hoort hierbij? | Tijd (richtlijn) | Slaag je hiermee voor het profielwerkstuk? |
 |-----------|-------------------|------------------|--------------------------------------------|
-| **1. Profielwerkstuk** | Alleen het **vooronderzoek** (zie verderop) | **Minimaal 20 uur** (officieel profielwerkstuk vmbo) | **Ja.** Je hebt minstens een **voldoende** nodig om mee te mogen doen aan het CE in het eerste tijdvak (zie PTA). |
-| **2. Eindopdracht T&T – eindproef** | Het **praktische deel** met de **N-Box**, **bezoeken**, **kabel maken**, **presentatie** en het **samenvoegen in je verslag** | Voor het **hele vak T&T** telt de eindopdracht naar verwachting **ongeveer 48 lesuren** in totaal (inclusief uitval). Dat kan per school verschillen: kijk in je **PTA**. | Dit is **geen** vervanging van het profielwerkstuk. Je bent **niet klaar** na alleen die 20 uur vooronderzoek. |
+| **1. Profielwerkstuk** | Alleen het **vooronderzoek** (zie **bijlage 1**) | **Minimaal 20 uur** (officieel profielwerkstuk vmbo) | **Ja.** Je hebt minstens een **voldoende** nodig om mee te mogen doen aan het CE in het eerste tijdvak (zie PTA). |
+| **2. Eindopdracht T&T – eindproef** | Het **praktische deel** met de **N-Box**, **bezoeken**, **kabel maken**, **presentatie** en het **samenvoegen in je verslag** (zie **bijlage 1**) | Voor het **hele vak T&T** telt de eindopdracht naar verwachting **ongeveer 48 lesuren** in totaal (inclusief uitval). Dat kan per school verschillen: kijk in je **PTA**. | Dit is **geen** vervanging van het profielwerkstuk. Je bent **niet klaar** na alleen die 20 uur vooronderzoek. |
 
 **Kort gezegd:** Eerst rond je het **vooronderzoek** af (profielwerkstuk). Daarna doe je de **eindproef** met de N-Box en de rest. Je docent zegt **wanneer** je wat inlevert.
 
@@ -26,49 +26,7 @@ Thuis gebruik je een netwerk voor internet, wifi, gedeelde bestanden en bijvoorb
 
 In het **vooronderzoek** zet je je **eigen thuisnetwerk** op papier en lees je **wat een veilig thuisnetwerk is**. In de **eindproef** bouw je met de **N-Box** een klein netwerk. Zo zie je hoe een netwerk in de praktijk werkt. Je leert ook wat **belangrijk is voor de beveiliging**.
 
-## Deel 1 – Profielwerkstuk: vooronderzoek (minimaal 20 uur)
-
-Dit deel telt als je **officiële profielwerkstuk** (vmbo). Je besteedt er **minstens 20 uur** aan. Je sluit dit deel af met een **beoordeling** (minimaal voldoende volgens je school).
-
-### Wat lever je in?
-
-| Onderdeel | Wat hoort erbij? |
-|-----------|------------------|
-| **Hoofdvraag en deelvragen** | Bijvoorbeeld: “Hoe maak ik mijn thuisnetwerk veilig?” Minstens **2 tot 3 deelvragen** over beveiliging (wifi, wachtwoord, updates, firewall). |
-| **Plan van aanpak** | Hoe pak je het onderzoek aan? Welke bronnen gebruik je? |
-| **Logboek** | Bijgehouden tijdens het werk (datum, wat je deed, hoe lang). |
-| **Thuisnetwerk in kaart** | Je onderzoekt je eigen netwerk: welke apparaten, hoe verbonden? Je tekent het in **Draw.io**. |
-| **Theorie** | Antwoorden op je vragen over **veilig thuisnetwerk**, met **betrouwbare bronnen**. |
-| **Bronnenlijst** | Alles netjes vermeld. |
-
-### Wat hoort (nog) niet bij dit deel?
-
-Het **bouwen en testen** met de **N-Box**, het **maken van de UTP-kabel** en de **bezoeken** aan het Vista College horen bij **deel 2 (eindproef)**. Je **mag** in je vooronderzoek al wel **lezen** wat een switch of een kabel doet, als dat bij je vragen past.
-
-### Verslag voor het profielwerkstuk
-
-Je school kan vragen om een **vooronderzoekverslag** of een **eerste versie** van je verslag. In ieder geval moet je **inleiding**, **kern** (theorie + tekening thuisnetwerk) en **bronvermelding** voor het vooronderzoek klaar zijn. De docent zegt of je dit **apart** inlevert of **later aanvult** tot één eindverslag.
-
-## Deel 2 – Eindopdracht T&T: eindproef met de N-Box
-
-Hier werk je het **praktische deel** uit. Dit is onderdeel van de **eindopdracht voor het vak T&T**. De school rekent voor die eindopdracht **ongeveer 48 lesuren** in totaal (niet alleen deze opdracht; zie PTA).
-
-### Opdracht in de praktijk
-
-**Eerst** (als je vooronderzoek op orde is of parallel volgens planning): je bouwt met de **N-Box** een **klein werkend netwerk**. Je gebruikt minstens de **desktopcomputer**, de **5-poorts switch** en **UTP-kabels**. Minstens **één computer** zit op de switch. **Als het kan**, sluit je **twee apparaten** aan zodat ze met elkaar kunnen praten.
-
-Je maakt met de **UTP Cable Kit** minstens **één eigen UTP-kabel** met **RJ45-stekkers** (de stekkers aan de kabel). Je test de kabel met de **kabeltester**.
-
-Je levert een **verslag** en een **presentatie** waarin **onderzoek én praktijk** zichtbaar zijn. Je laat je thuisnetwerk zien (tekening). Je laat zien hoe je het netwerk met de N-Box hebt opgebouwd en getest.
-
-**Eindproducten (eindopdracht):**
-
-| Eindproduct | Omschrijving |
-|-------------|--------------|
-| **Netwerkschema** | Van je thuisnetwerk, getekend in **Draw.io** (uit deel 1; aanvullen mag). |
-| **Verslag** | Hoofdvraag en deelvragen; thuisnetwerk en tekening; theorie over beveiliging (met bronnen); **N-Box** (onderdelen, stappen); testresultaten; **bezoekverslagen** van de twee bezoeken; conclusie; bronnenlijst. |
-| **Bezoekverslagen** | Na elk bezoek: datum, duur, wat je deed en leerde, materialen. Opname in je eindverslag. |
-| **Mondelinge presentatie** | Bijv. PowerPoint of Prezi of korte demo. Je beantwoordt je hoofdvraag, toont je thuisnetwerk en licht je N-Box-werk toe. |
+De **uitgebreide omschrijving** van deel 1 en deel 2 staat in **bijlage 1**.
 
 ## Verplichte eisen – overzicht per deel
 
@@ -136,14 +94,73 @@ ICT / Netwerkbeheer (Technologie & Toepassing, Keuzedeel Netwerkbeheer VMBO GL/T
 
 | Bijlage | Onderwerp | Inhoud |
 |---------|-----------|--------|
-| **Bijlage 1** | Verplichte onderdelen | Profiel en thema, hoofdvraag en deelvragen, plan, logboek, inhoud werkstuk, presentatie, bronnen. |
-| **Bijlage 2** | Beoordeling en planning | Beoordelaars, O/V/G, slaagvoorwaarde, deadline, samenwerking. |
-| **Bijlage 3** | Beoordelingsrubrics | Apart: **vooronderzoek** en **eindproef**. |
-| **Bijlage 4** | Eisen profielwerkstuk (VMBO) | Officiële regels; **20 uur** geldt voor het profielwerkstuk. |
-| **Bijlage 5** | Materialen N-Box | Verwijzing naar *N-Box - Overzicht materialen en challenges*. |
-| **Bijlage 6** | Aanpassen door school | Korte toelichting over hergebruik en aanpassen van deze tekst. |
+| **Bijlage 1** | Omschrijving deel 1 en deel 2 | Profielwerkstuk (vooronderzoek): wat je inlevert, wat niet. Eindproef N-Box: praktijk, eindproducten. |
+| **Bijlage 2** | Verplichte onderdelen | Profiel en thema, hoofdvraag en deelvragen, plan, logboek, inhoud werkstuk, presentatie, bronnen. |
+| **Bijlage 3** | Beoordeling en planning | Beoordelaars, O/V/G, slaagvoorwaarde, deadline, samenwerking. |
+| **Bijlage 4** | Beoordelingsrubrics | Apart: **vooronderzoek** en **eindproef**. |
+| **Bijlage 5** | Eisen profielwerkstuk (VMBO) | Officiële regels; **20 uur** geldt voor het profielwerkstuk. |
+| **Bijlage 6** | Materialen N-Box | Verwijzing naar *N-Box - Overzicht materialen en challenges*. |
+| **Bijlage 7** | Aanpassen door school | Korte toelichting over hergebruik en aanpassen van deze tekst. |
 
-## Bijlage 1: Verplichte onderdelen
+## Bijlage 1: Omschrijving deel 1 en deel 2
+
+### Deel 1 – Profielwerkstuk: vooronderzoek (minimaal 20 uur)
+
+Dit deel is **jouw officiële profielwerkstuk** (vmbo). Je besteedt er **minstens 20 uur** aan. Je sluit dit deel af met een **beoordeling**. Je hebt minimaal **voldoende** nodig volgens je school.
+
+#### Wat lever je in?
+
+| Onderdeel | Wat hoort erbij? |
+|-----------|------------------|
+| **Hoofdvraag en deelvragen** | Bijvoorbeeld: “Hoe maak ik mijn thuisnetwerk veilig?” Minstens **2 tot 3 deelvragen** over beveiliging (wifi, wachtwoord, updates, firewall). |
+| **Plan van aanpak** | Hoe pak je het onderzoek aan? Welke bronnen gebruik je? |
+| **Logboek** | Bijgehouden tijdens het werk (datum, wat je deed, hoe lang). |
+| **Thuisnetwerk in kaart** | Je onderzoekt je eigen netwerk: welke apparaten, hoe verbonden? Je tekent het in **Draw.io**. |
+| **Theorie** | Antwoorden op je vragen over **veilig thuisnetwerk**, met **betrouwbare bronnen**. |
+| **Bronnenlijst** | Alles netjes vermeld. |
+
+#### Wat hoort (nog) niet bij dit deel?
+
+Het **bouwen en testen** met de **N-Box** hoort bij **deel 2 (eindproef)**. Ook het **maken van de UTP-kabel** en de **bezoeken** aan het Vista College horen bij deel 2.
+
+In je vooronderzoek **mag** je al **lezen** wat een switch of een kabel doet. Doe dat alleen als het bij je vragen past.
+
+#### Verslag voor het profielwerkstuk
+
+Je school kan vragen om een **vooronderzoekverslag**. Soms mag het ook een **eerste versie** van je verslag zijn.
+
+In ieder geval moet je voor het vooronderzoek klaar zijn met **inleiding**, **kern** (theorie + tekening thuisnetwerk) en **bronvermelding**.
+
+Je docent zegt of je dit **apart** inlevert. Of je vult het later aan tot **één eindverslag**.
+
+### Deel 2 – Eindopdracht T&T: eindproef met de N-Box
+
+Hier werk je het **praktische deel** uit. Dit hoort bij de **eindopdracht voor het vak T&T**.
+
+De school rekent voor die eindopdracht **ongeveer 48 lesuren** in totaal. Dat is niet alleen voor deze opdracht. **Kijk in je PTA.**
+
+#### Opdracht in de praktijk
+
+**Eerst** bouw je met de **N-Box** een **klein werkend netwerk**. Meestal doe je dat als je vooronderzoek op orde is.
+
+Soms werk je **parallel** aan deel 1 en deel 2. Je docent zegt hoe de **planning** bij jullie school loopt.
+
+Je gebruikt minstens de **desktopcomputer**, de **5-poorts switch** en **UTP-kabels**. Minstens **één computer** zit op de switch. **Als het kan**, sluit je **twee apparaten** aan. Dan kunnen ze met elkaar **praten** (data uitwisselen).
+
+Je maakt met de **UTP Cable Kit** (set om zelf een netwerkkabel te maken) minstens **één eigen UTP-kabel**. Aan de kabel zitten **RJ45-stekkers**. Dat zijn de **netwerkstekkers** aan het uiteinde van de kabel. Je test de kabel met de **kabeltester**.
+
+Je levert een **verslag** en een **presentatie**. Daarin laat je **onderzoek** en **praktijk** zien. Je laat je thuisnetwerk zien (tekening). Je laat ook zien hoe je het netwerk met de N-Box hebt opgebouwd en getest.
+
+#### Eindproducten (eindopdracht)
+
+| Eindproduct | Omschrijving |
+|-------------|--------------|
+| **Netwerkschema** | Van je thuisnetwerk, getekend in **Draw.io** (uit deel 1; aanvullen mag). |
+| **Verslag** | Hoofdvraag en deelvragen; thuisnetwerk en tekening; theorie over beveiliging (met bronnen); **N-Box** (onderdelen, stappen); testresultaten; **bezoekverslagen** van de twee bezoeken; conclusie; bronnenlijst. |
+| **Bezoekverslagen** | Na elk bezoek: datum, duur, wat je deed en leerde, materialen. Opname in je eindverslag. |
+| **Mondelinge presentatie** | Bijvoorbeeld met **PowerPoint** of **Prezi**. Of je geeft een korte **demo**. Je beantwoordt je hoofdvraag. Je laat je thuisnetwerk zien. Je legt je N-Box-werk uit. |
+
+## Bijlage 2: Verplichte onderdelen
 
 *Jouw school kan andere regels hebben: kijk in het **PTA** of in de **handreiking**.*
 
@@ -195,7 +212,7 @@ Je mag de vragen met je docent aanpassen; het thema blijft **veilig thuisnetwerk
 
 Betrouwbare bronnen; lijst vanaf het begin bijhouden.
 
-## Bijlage 2: Beoordeling en planning
+## Bijlage 3: Beoordeling en planning
 
 | Onderdeel | Invulling |
 |-----------|-----------|
@@ -206,7 +223,7 @@ Betrouwbare bronnen; lijst vanaf het begin bijhouden.
 | **Uiterste inleverdatum** | *[Vul in volgens PTA.]* |
 | **Samenwerking** | Individueel of duo; volgens schoolregels. |
 
-## Bijlage 3: Beoordelingsrubrics
+## Bijlage 4: Beoordelingsrubrics
 
 *Geef per onderdeel **O**, **V** of **G**. Voor het **profielwerkstuk** telt vooral **blok A**. Voor de **eindopdracht** telt **blok B** (je school kan gewichten geven).*
 
@@ -314,7 +331,7 @@ Betrouwbare bronnen; lijst vanaf het begin bijhouden.
 **Handtekening beoordelaar 1:** ……………………  
 **Handtekening beoordelaar 2:** ……………………
 
-## Bijlage 4: Eisen profielwerkstuk (VMBO)
+## Bijlage 5: Eisen profielwerkstuk (VMBO)
 
 *Wet voortgezet onderwijs 2020 en Uitvoeringsbesluit WVO 2020.*
 
@@ -329,7 +346,7 @@ Betrouwbare bronnen; lijst vanaf het begin bijhouden.
 | **Slaagvoorwaarde** | Minstens voldoende voor deelname CE eerste tijdvak (volgens PTA). |
 | **Deadline** | Afgerond vóór start eerste examentijdvak. |
 
-## Bijlage 5: Overzicht materialen (N-Box)
+## Bijlage 6: Overzicht materialen (N-Box)
 
 Zie ***N-Box - Overzicht materialen en challenges*** in deze map.
 
@@ -340,7 +357,7 @@ Zie ***N-Box - Overzicht materialen en challenges*** in deze map.
 | **UTP Cable Kit** | Kabeltester, krimptang, kabelstripper, RJ45-connectors, punch-down tool, schroevendraaiers |
 | **Randapparatuur** | Toetsenbord, muis, USB-stick |
 
-## Bijlage 6: Aanpassen door school en bron
+## Bijlage 7: Aanpassen door school en bron
 
 Deze tekst is bedoeld voor gebruik in de les. **Docenten mogen de tekst aanpassen** voor eigen groepen (uren, deadlines, volgorde), zolang de **wettelijke regels voor het profielwerkstuk** (o.a. 20 uur, beoordeling) worden gevolgd. Er is geen aparte beperking vanwege “een digitale portal”: aanpassen voor jullie school is toegestaan. Vermeld desgewenst de **bron** (bijv. Vista College / eigen lesmateriaal).
 
